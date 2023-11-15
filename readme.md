@@ -16,7 +16,7 @@ src="https://github-readme-stats.vercel.app/api?username=YuriAres&show_icons=tru
 
 
 ## Tecnologias e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=flutter,vscode,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,vscode,firebase,dart&theme=dark)](https://skillicons.dev)
 
 ## Contatos
 <div>
@@ -26,7 +26,7 @@ src="https://github-readme-stats.vercel.app/api?username=YuriAres&show_icons=tru
 </div>
 <br/>
 <p align="center">
-  <b></b>Fique a vontade para olhar meus repositorios! Até mais :wave:<b/>
+  <b></b>Fique a vontade para olhar meus repositórios! Até mais :wave:<b/>
 </p>
 
 <p align="center">
