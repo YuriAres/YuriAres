@@ -33,13 +33,3 @@ src="https://github-readme-stats.vercel.app/api?username=YuriAres&show_icons=tru
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="animated" />
 </p>
-
-![Snake animation](https://github.com/YuriAres/YuriAres/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-<!---
-YuriAres/YuriAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
