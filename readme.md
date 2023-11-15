@@ -3,8 +3,8 @@
 # Olá, me chamo Yuri! 👋
 
 - 💻 Front End Developer
-- 🌱 Atualmente estou aprendendo Dart, Flutter e Firebase
 - ⚙️ Engenheiro da Computação
+- 🌱 Atualmente estou aprendendo Dart, Flutter e Firebase
 - :thought_balloon: Sou apaixonado no mundo DEV, buscando sempre aprender mais
 
 ## Stats
