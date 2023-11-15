@@ -4,7 +4,7 @@
 
 - 💻 Front End Developer
 - 🌱 Atualmente estou aprendendo Dart, Flutter e Firebase
-- 👨🏻‍🎓 Engenheiro da Computação
+- ⚙️ Engenheiro da Computação
 - :thought_balloon: Sou apaixonado no mundo DEV, buscando sempre aprender mais
 
 ## Stats
