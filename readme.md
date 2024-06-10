@@ -16,7 +16,7 @@ src="https://github-readme-stats.vercel.app/api?username=YuriAres&show_icons=tru
 
 
 ## Tecnologias e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,js,react&theme=dark)](https://skillicons.dev)
 
 ## Contatos
 <div>
